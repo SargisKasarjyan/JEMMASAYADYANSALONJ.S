@@ -1,0 +1,598 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.img1 {
+    width: 100%;
+    height: 689px;
+}
+
+.h1 {
+    color: darkgoldenrod;
+    z-index: 4;
+    top: 482px;
+    position: absolute;
+    left: 510px;
+}
+
+.div1 {
+    background-color: rgb(8, 8, 6);
+    width: 39%;
+    opacity: 2;
+    height: 33px;
+    position: absolute;
+    top: 482px;
+    left: 400px;
+    z-index: 1;
+}
+
+.h2 {
+    color: darkgoldenrod;
+    z-index: 4;
+    top: 130px;
+    position: absolute;
+    left: 848px;
+}
+
+.h3 {
+    color: darkgoldenrod;
+    z-index: 4;
+    top: 96px;
+    position: absolute;
+    left: 848px;
+}
+
+.h4 {
+    color: darkgoldenrod;
+    z-index: 4;
+    top: 60px;
+    position: absolute;
+    left: 846px;
+}
+
+.img2 {
+    position: absolute;
+    top: 84px;
+    left: 777px;
+    height: 64px;
+    width: 84px;
+}
+
+.img15 {
+    position: absolute;
+    top: 79px;
+    left: 26px;
+    height: 193px;
+    width: 221px;
+}
+
+.img3 {
+    position: absolute;
+    top: 60px;
+    left: 800px;
+    height: 30px;
+    width: 40px;
+}
+
+#a1 {
+    color: gold;
+    text-decoration: none;
+    left: 1002px;
+    font-size: 18px;
+    bottom: 170px;
+    position: absolute;
+}
+
+#a5 {
+    color: gold;
+    text-decoration: none;
+    left: 1002px;
+    font-size: 18px;
+    bottom: 137px;
+    position: absolute;
+}
+
+#a2 {
+    color: gold;
+    text-decoration: none;
+    left: 1002px;
+    font-size: 18px;
+    bottom: 209px;
+    position: absolute;
+}
+
+.img4 {
+    position: absolute;
+    top: 130px;
+    left: 799px;
+    height: 43px;
+    width: 40px;
+}
+
+#Bag {
+    top: -600px;
+    position: relative;
+}
+
+.div0_1 {
+    width: 1279px;
+    top: 590px;
+    left: -15px;
+    z-index: 6;
+    position: relative;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-around;
+}
+
+.div1_2 {
+    width: 336px;
+    height: 190px;
+    background-color: red;
+}
+
+.div2_2 {
+
+    width: 336px;
+    height: 190px;
+    background-color: red;
+}
+
+.div3_2 {
+    width: 336px;
+    height: 190px;
+    background-color: red;
+}
+
+.div4_2 {
+    width: 336px;
+    height: 190px;
+    background-color: red;
+}
+
+.div9_2 {
+    width: 336px;
+    height: 190px;
+    background-color: red;
+}
+
+.div5_2 {
+    width: 336px;
+    height: 190px;
+    background-color: red;
+}
+
+.div6_2 {
+    width: 336px;
+    height: 190px;
+    background-color: red;
+}
+
+.div7_2 {
+    width: 336px;
+    height: 190px;
+    background-color: red;
+}
+
+.div8_2 {
+    width: 336px;
+    height: 190px;
+    background-color: red;
+}
+
+.black {
+    background-color: black;
+    width: 100%;
+    height: 600px;
+    position: relative;
+    top: -26px;
+}
+
+#dv5_1 {
+    height: 150px;
+    width: 278px;
+    margin-left: 29px;
+    margin-top: 2px;
+    background-color: blue;
+}
+
+#dv5_2 {
+    height: 150px;
+    width: 278px;
+    margin-left: 29px;
+    margin-top: 2px;
+    background-color: blue;
+}
+
+#dv5_3 {
+    height: 150px;
+    width: 278px;
+    margin-left: 29px;
+    margin-top: 2px;
+    background-color: blue;
+}
+
+#dv5_4 {
+    height: 150px;
+    width: 278px;
+    margin-left: 29px;
+    margin-top: 2px;
+    background-color: blue;
+}
+
+#dv5_5 {
+    height: 150px;
+    width: 278px;
+    margin-left: 29px;
+    margin-top: 2px;
+    background-color: blue;
+}
+
+#dv5_6 {
+    height: 150px;
+    width: 278px;
+    margin-left: 29px;
+    margin-top: 2px;
+    background-color: blue;
+}
+
+#dv5_7 {
+    height: 150px;
+    width: 278px;
+    margin-left: 29px;
+    margin-top: 2px;
+    background-color: blue;
+}
+
+#dv5_8 {
+    height: 150px;
+    width: 278px;
+    margin-left: 29px;
+    margin-top: 2px;
+    background-color: blue;
+}
+
+#dv5_9 {
+    height: 150px;
+    width: 278px;
+    margin-left: 29px;
+    margin-top: 2px;
+    background-color: blue;
+}
+
+.black1 {
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    position: relative;
+    bottom: 60px;
+}
+/* nooooooooor */
+
+@media only screen and (min-width: 390px) and (max-width: 480px) {
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .img1 {
+        width: 100%;
+        height: 689px;
+    }
+    
+    .h1 {
+        color: darkgoldenrod;
+        z-index: 4;
+        top: 482px;
+        position: absolute;
+        left: 510px;
+    }
+    
+    .div1 {
+        background-color: rgb(8, 8, 6);
+        width: 39%;
+        opacity: 2;
+        height: 33px;
+        position: absolute;
+        top: 482px;
+        left: 400px;
+        z-index: 1;
+    }
+    
+    .h2 {
+        color: darkgoldenrod;
+        z-index: 4;
+        top: -276px;
+        position: absolute;
+        left: 43px;
+    }
+    
+    .h3 {
+        color: darkgoldenrod;
+        z-index: 4;
+        top: -315px;
+        position: absolute;
+        left: 45px;
+    }
+    
+    .h4 {
+        color: darkgoldenrod;
+        z-index: 4;
+        top: -350px;
+        position: absolute;
+        left: 45px;
+    }
+    
+    .img2 {
+        position: absolute;
+        top: -328px;
+        left: -24px;
+        height: 64px;
+        width: 84px;
+    }
+    
+    .img15 {
+        position: absolute;
+        top: 79px;
+        left: 80px;
+        height: 193px;
+        width: 221px;
+    }
+    
+    .img3 {
+        position: absolute;
+        top: -350px;
+        left: 3px;
+        height: 30px;
+        width: 40px;
+    }
+    
+    #a1 {
+        color: gold;
+        text-decoration: none;
+        left: 198px;
+        font-size: 18px;
+        bottom: 584px;
+        position: absolute;
+    }
+    
+    #a5 {
+        color: gold;
+        text-decoration: none;
+        left: 160px;
+        font-size: 16px;
+        bottom: 545px;
+        position: absolute;
+    }
+    
+    #a2 {
+        color: gold;
+        text-decoration: none;
+        left: 190px;
+        font-size: 14px;
+        bottom: 619px;
+        position: absolute;
+    }
+    
+    .img4 {
+        position: absolute;
+        top: -278px;
+        left: 0px;
+        height: 43px;
+        width: 40px;
+    }
+    
+    #Bag {
+        top: -600px;
+        position: relative;
+    }
+    
+    .div0_1 {
+        width: 1279px;
+        top: 590px;
+        left: -15px;
+        z-index: 6;
+        position: relative;
+        height: 600px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-content: space-around;
+    }
+    
+    .div1_2 {
+        width: 336px;
+        height: 190px;
+        background-color: red;
+        position: absolute;
+        left: 45px;
+        top: 0px;
+    }
+    
+    .div2_2 {
+    
+        width: 336px;
+        height: 190px;
+        background-color: red;
+        position: absolute;
+        left: 45px;
+        top: 202px;
+    }
+    
+    .div3_2 {
+        width: 336px;
+        height: 190px;
+        background-color: red;
+        position: absolute;
+        left: 45px;
+        top: 404px;
+    }
+    
+    .div4_2 {
+        width: 336px;
+        height: 190px;
+        background-color: red;
+        position: absolute;
+        left: 45px;
+        top: 606px;
+    }
+    
+    .div9_2 {
+        width: 336px;
+        height: 190px;
+        background-color: red;
+        position: absolute;
+        left: 45px;
+        top: 1616;
+    }
+    
+    .div5_2 {
+        width: 336px;
+        height: 190px;
+        background-color: red;
+        position: absolute;
+        left: 45px;
+        top: 808px;
+    }
+    
+    .div6_2 {
+        width: 336px;
+        height: 190px;
+        background-color: red;
+        position: absolute;
+        left: 45px;
+        top: 1010px;
+    }
+    
+    .div1_2 {
+        width: 336px;
+        height: 190px;
+        background-color: red;
+        /* position: absolute; */
+        /* left:45px ; */
+        /* top: ; */
+    }
+    
+    .div7_2 {
+        width: 336px;
+        height: 190px;
+        background-color: red;
+        position: absolute;
+        left:45px ;
+        top: 1212px;
+    }
+    
+    .div8_2 {
+        width: 336px;
+        height: 190px;
+        background-color: red;
+        position: absolute;
+        left: 45px;
+        top: 1414px;
+    }
+    .div9_2 {
+        width: 336px;
+        height: 190px;
+        background-color: red;
+        position: absolute;
+        left: 45px;
+        top: 1616px;
+    }
+    
+    
+    .black {
+        background-color: black;
+        width: 100%;
+        height: 2200px;
+        position: relative;
+        top: -26px;
+    }
+    
+    #dv5_1 {
+        height: 150px;
+        width: 278px;
+        margin-left: 29px;
+        margin-top: 2px;
+        background-color: blue;
+    }
+    
+    #dv5_2 {
+        height: 150px;
+        width: 278px;
+        margin-left: 29px;
+        margin-top: 2px;
+        background-color: blue;
+    }
+    
+    #dv5_3 {
+        height: 150px;
+        width: 278px;
+        margin-left: 29px;
+        margin-top: 2px;
+        background-color: blue;
+    }
+    
+    #dv5_4 {
+        height: 150px;
+        width: 278px;
+        margin-left: 29px;
+        margin-top: 2px;
+        background-color: blue;
+    }
+    
+    #dv5_5 {
+        height: 150px;
+        width: 278px;
+        margin-left: 29px;
+        margin-top: 2px;
+        background-color: blue;
+    }
+    
+    #dv5_6 {
+        height: 150px;
+        width: 278px;
+        margin-left: 29px;
+        margin-top: 2px;
+        background-color: blue;
+    }
+    
+    #dv5_7 {
+        height: 150px;
+        width: 278px;
+        margin-left: 29px;
+        margin-top: 2px;
+        background-color: blue;
+    }
+    
+    #dv5_8 {
+        height: 150px;
+        width: 278px;
+        margin-left: 29px;
+        margin-top: 2px;
+        background-color: blue;
+    }
+    
+    #dv5_9 {
+        height: 150px;
+        width: 278px;
+        margin-left: 29px;
+        margin-top: 2px;
+        background-color: blue;
+    }
+    
+    .black1 {
+        background-color: black;
+        width: 100%;
+        height: 300px;
+        position: relative;
+        bottom: 60px;
+    }
+    
+}
